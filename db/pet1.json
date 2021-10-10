@@ -1,17 +1,17 @@
 {
-  "id": 1974080145,
+  "id": 0,
   "category": {
     "id": 1,
-    "name": "AX2345LORT"
+    "name": "dog"
   },
-  "name": "Atena",
+  "name": "Snoopy",
   "photoUrls": [
     "string"
   ],
   "tags": [
     {
-      "id": 20210812,
-      "name": "data"
+      "id": 2021,
+      "name": "sta"
     }
   ],
   "status": "available"
